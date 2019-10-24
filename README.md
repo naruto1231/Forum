@@ -1,2 +1,0 @@
-# koki
-original.site
